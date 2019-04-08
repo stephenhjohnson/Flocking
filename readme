@@ -1,0 +1,12 @@
+Created By: Stephen Johnson
+johnsonhstephen@gmail.com
+
+This project is protected under the GNU General Public License v3.0
+
+If this is the first time running execute:
+npm install
+
+To run the server execute:
+npm start
+
+A simulation of a flock based of the boid algorithm
